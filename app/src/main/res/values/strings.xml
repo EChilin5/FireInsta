@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireInsta</string>
+    <string name="login">Login</string>
+    <string name="pasword">Pasword</string>
+    <string name="email">Email</string>
+    <string name="sample_user_post_image">sample user post image</string>
+    <string name="create_post">create post</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="description">Description</string>
+    <string name="post">Post</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617715794229",
+    "project_id": "fireinsta-6f0fe",
+    "storage_bucket": "fireinsta-6f0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617715794229:android:848de2c785010269b20c7c",
+        "android_client_info": {
+          "package_name": "com.eachilin.fireinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617715794229-6nsr337nhhnrsavkvf1cu9pn5o9nvqoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD76TG4JC-wrghBBowoOD2fz9jIP8EwSpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617715794229-6nsr337nhhnrsavkvf1cu9pn5o9nvqoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
