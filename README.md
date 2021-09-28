@@ -17,6 +17,10 @@ a better understanding of firebase api calls, for example the task api.
  - [ ] Allow user to add a profile photo
  - [ ] Add Comments
  - [ ] Allow people to see likes
+ - [ ] Upload a visual preview
+ 
+ ## App preview
+ 
  
  ## Previous Instagram Clone with Java Reference
 -  https://github.com/EChilin5/SimpleInstagram
